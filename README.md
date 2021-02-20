@@ -24,9 +24,21 @@ Enjoy!
 
 ## Class Diagrams
 ![diagram_1](/Diagrams/Diagram_1-Game.png)
+
+--- 
+
 ![diagram_2](/Diagrams/Diagram_2-Grid.png)
+
+---
+
 ![diagram_3](/Diagrams/Diagram_3-GameInitialStateConfig.png)
+
+---
+
 ![diagram_4](/Diagrams/Diagram_4-TurnDealer.png)
+
+---
+
 ![diagram_5](/Diagrams/Diagram_5-AUnitController.png)
 
 ## Releases
