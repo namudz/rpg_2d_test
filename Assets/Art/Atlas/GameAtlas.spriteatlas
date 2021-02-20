@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e113891aa3be61e4fb76433914185bd9, type: 3}
+    - {fileID: 102900000, guid: 70aa7772637f72c48845b84bc6b75716, type: 3}
+    - {fileID: 102900000, guid: 59c179f532c146a4bb52683eda475b83, type: 3}
+    - {fileID: 102900000, guid: 928ea65ce56cce54eb67fafce009b0f3, type: 3}
+    totalSpriteSurfaceArea: 41394
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 46006810fb47e0e4f8468bf89fb71624, type: 3}
+  - {fileID: 21300000, guid: bdcc1d1068b1702479151b2f4b6b55ab, type: 3}
+  - {fileID: 21300000, guid: 1498a250c978ae14cbf5baab3a63c177, type: 3}
+  - {fileID: 21300000, guid: c0dd6a802cd9d9e46ab212856829eb1b, type: 3}
+  - {fileID: 21300000, guid: 7bc3cea00dca5764cab293d3e1c878c2, type: 3}
+  - {fileID: 21300000, guid: e486a4311d540684f9fe6719ea182218, type: 3}
+  - {fileID: 21300000, guid: ec4f364135d12744ba92faadf9c2f4bf, type: 3}
+  - {fileID: 21300000, guid: 02f8bb12a0e6e47459959e869108697f, type: 3}
+  - {fileID: 21300000, guid: b74359426a692cd459ea4f07050521f0, type: 3}
+  - {fileID: 21300000, guid: 8194aa726dfb6cc49a6eca9c2126df8f, type: 3}
+  - {fileID: 21300000, guid: a215dc82a3ea13a40b48f465aa47e580, type: 3}
+  - {fileID: 21300000, guid: 0b17f8d2bece197489f03d9e68ab6b4f, type: 3}
+  - {fileID: 21300000, guid: 7bfda4130f5e25e48805dad6faa21703, type: 3}
+  - {fileID: 21300000, guid: eaa758139abff4648855e372efdb7215, type: 3}
+  - {fileID: 21300000, guid: e20b54b3cf0efa84fafc5ee6afe2c6b5, type: 3}
+  - {fileID: 21300000, guid: 808bf6c3444972a44aeac3e83d655065, type: 3}
+  - {fileID: 21300000, guid: 4651fd34631ce5d4db82387c808bd85f, type: 3}
+  - {fileID: 21300000, guid: cf54bcb4dc7d0ee4ba0f9f371c56288b, type: 3}
+  - {fileID: 21300000, guid: adb79775e0eec934a9bfba723f35b670, type: 3}
+  - {fileID: 21300000, guid: 01e098b591e22714e95734ffa93a475f, type: 3}
+  - {fileID: 21300000, guid: dd65660628a798b448182044a28b3f19, type: 3}
+  - {fileID: 21300000, guid: e5a7563646d05094ba14e06ae8cc7312, type: 3}
+  - {fileID: 21300000, guid: bce727960255b5b43a93e802b872e6f5, type: 3}
+  - {fileID: 21300000, guid: 6a210ea6ebefcaf408d1ab0fff2dfb2d, type: 3}
+  - {fileID: 21300000, guid: d48a92578b35dd0458593e935c5cd6f4, type: 3}
+  - {fileID: 21300000, guid: 72f4cc7769028c244a3430d5a26e9cf4, type: 3}
+  - {fileID: 21300000, guid: 64f0e487d5fef5b4d90817260e27db00, type: 3}
+  - {fileID: 21300000, guid: 2a696f97f451b2449a5f4680068f74bb, type: 3}
+  - {fileID: 21300000, guid: 075328d7b0a934448ba91aa6f8222e0c, type: 3}
+  - {fileID: 21300000, guid: a58a8cf7e93aabf4195f6c34aca76dec, type: 3}
+  - {fileID: 21300000, guid: dd5ff8880f0e71042ae4c6c651f8fd9b, type: 3}
+  - {fileID: 3772683418283532732, guid: f16c1a0942318cb42a74ec2b4476e620, type: 3}
+  - {fileID: 2520954595472060108, guid: f16c1a0942318cb42a74ec2b4476e620, type: 3}
+  - {fileID: 8160668605505760950, guid: f16c1a0942318cb42a74ec2b4476e620, type: 3}
+  - {fileID: -1655925439208003030, guid: f16c1a0942318cb42a74ec2b4476e620, type: 3}
+  - {fileID: -7013849971739673189, guid: f16c1a0942318cb42a74ec2b4476e620, type: 3}
+  - {fileID: -8424587818030456413, guid: f16c1a0942318cb42a74ec2b4476e620, type: 3}
+  - {fileID: 3911453394744994684, guid: f16c1a0942318cb42a74ec2b4476e620, type: 3}
+  - {fileID: -5564804411883894109, guid: f16c1a0942318cb42a74ec2b4476e620, type: 3}
+  - {fileID: -7810480800737858007, guid: f16c1a0942318cb42a74ec2b4476e620, type: 3}
+  - {fileID: 588933196039410774, guid: f16c1a0942318cb42a74ec2b4476e620, type: 3}
+  - {fileID: 21300000, guid: 590d717963d8e044ca0a64199cdd6d79, type: 3}
+  - {fileID: 21300000, guid: 3c9b8dd96e4c4934aa801dc0b372de6f, type: 3}
+  - {fileID: 21300000, guid: 50f16cf954e56d54baa1a79c36244b36, type: 3}
+  - {fileID: 21300000, guid: f78e342af8c4d4642a7137304e8a1a74, type: 3}
+  - {fileID: 21300000, guid: 3514394a813e0e74495c717be9d1e0d6, type: 3}
+  - {fileID: 21300000, guid: 94d1cb6af6257964b9d8db32202f55e7, type: 3}
+  - {fileID: 21300000, guid: 3a8a2f2b03b39b541bc74b66a3d52f06, type: 3}
+  - {fileID: 21300000, guid: 0f19ca9d2d779b84ebe277fbaaf0cc95, type: 3}
+  - {fileID: 21300000, guid: 71482bedaf73cd348bd7112b29c27c38, type: 3}
+  - {fileID: 21300000, guid: 54151d0e0e8970b4baad1ec87da13687, type: 3}
+  - {fileID: 21300000, guid: 6c04ee0ebc1dd144098a34b39d12c8f5, type: 3}
+  - {fileID: 21300000, guid: 369a725e22616ca4586de4a11da8802d, type: 3}
+  - {fileID: 21300000, guid: f30320be48c29584bb1e27cd98c91ded, type: 3}
+  - {fileID: 21300000, guid: 469e66ee550516b4388f2bb71362401d, type: 3}
+  - {fileID: 21300000, guid: 5338fa0fa800a364b82a2756fd16e13c, type: 3}
+  - {fileID: 21300000, guid: fa82d5ef6e7eae14cac93a8085b07b5b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - knight_f_idle_anim_f3
+  - floor_2
+  - elf_f_idle_anim_f0
+  - lizard_f_idle_anim_f3
+  - wizzard_m_idle_anim_f3
+  - goblin_idle_anim_f0
+  - skelet_idle_anim_f3
+  - lizard_f_idle_anim_f0
+  - highlight_cell_1
+  - floor_3
+  - highlight_cell_2
+  - knight_f_idle_anim_f2
+  - fx_hit_1
+  - fx_hit_4
+  - zombie_idle_anim_f1
+  - imp_idle_anim_f0
+  - skelet_idle_anim_f1
+  - goblin_idle_anim_f2
+  - lizard_f_idle_anim_f2
+  - imp_idle_anim_f2
+  - floor_4
+  - floor_7
+  - fx_hit_5
+  - goblin_idle_anim_f1
+  - elf_f_idle_anim_f3
+  - wizzard_m_idle_anim_f0
+  - imp_idle_anim_f3
+  - imp_idle_anim_f1
+  - fx_hit_2
+  - floor_1
+  - elf_f_idle_anim_f1
+  - fx_death_9
+  - fx_death_8
+  - fx_death_3
+  - fx_death_2
+  - fx_death_1
+  - fx_death_0
+  - fx_death_7
+  - fx_death_6
+  - fx_death_5
+  - fx_death_4
+  - zombie_idle_anim_f2
+  - floor_5
+  - skelet_idle_anim_f0
+  - fx_hit_3
+  - zombie_idle_anim_f0
+  - zombie_idle_anim_f3
+  - wizzard_m_idle_anim_f2
+  - wizzard_m_idle_anim_f1
+  - knight_f_idle_anim_f0
+  - elf_f_idle_anim_f2
+  - floor_8
+  - lizard_f_idle_anim_f1
+  - floor_6
+  - knight_f_idle_anim_f1
+  - goblin_idle_anim_f3
+  - skelet_idle_anim_f2
+  m_Tag: GameAtlas
+  m_IsVariant: 0

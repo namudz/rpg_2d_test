@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 128
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c314aabf6d943b449bf9384b3a064bd8, type: 3}
+    totalSpriteSurfaceArea: 9984
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: eefabe90cd5361840b12f595edb83e94, type: 3}
+  - {fileID: 21300000, guid: ef9604c2f8324204885559aa3aab49e3, type: 3}
+  - {fileID: 21300000, guid: bfc8ac3367444ee4bbd64c81030088a3, type: 3}
+  - {fileID: 21300000, guid: b375c276a9e2854408d2badd0a260b54, type: 3}
+  - {fileID: 21300000, guid: 5ddb87f701e18f64b9a7912a4987a1fc, type: 3}
+  - {fileID: 21300000, guid: 124cda6d53638324d885413caba8466f, type: 3}
+  - {fileID: 21300000, guid: 8e49ecbd7bfcf2d4289f90c46741dfda, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - health_bar_background
+  - panel_grey
+  - health_bar_fill
+  - panel_tan
+  - pause_icon
+  - panel_white
+  - panel_brown
+  m_Tag: UIAtlas
+  m_IsVariant: 0

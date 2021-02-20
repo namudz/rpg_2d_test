@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5e340c38f3d1964a80f176f3c873a1a, type: 3}
+  m_Name: GameInitialStateConfig
+  m_EditorClassIdentifier: 
+  Characters:
+  - UnitConfig: {fileID: 11400000, guid: c0c66053037f1904dad2d3bb623f0e8f, type: 2}
+    SpawnConfig:
+      Randomly: 1
+      Cell: {x: 0, y: 0}
+  - UnitConfig: {fileID: 11400000, guid: 9ad8d0d7e08acca489001171a12d6dd8, type: 2}
+    SpawnConfig:
+      Randomly: 1
+      Cell: {x: 0, y: 0}
+  - UnitConfig: {fileID: 11400000, guid: 2d4e6de92f9acc24c8e2cd35d6543930, type: 2}
+    SpawnConfig:
+      Randomly: 1
+      Cell: {x: 0, y: 0}
+  - UnitConfig: {fileID: 11400000, guid: aad321785d41c5842aac8583919af4d9, type: 2}
+    SpawnConfig:
+      Randomly: 1
+      Cell: {x: 0, y: 0}
+  Enemies:
+  - UnitConfig: {fileID: 11400000, guid: 7038c61848904234fa03e6198137687a, type: 2}
+    SpawnConfig:
+      Randomly: 1
+      Cell: {x: 3, y: 3}
+  - UnitConfig: {fileID: 11400000, guid: 79d782cc89ef07747bb7337441711f39, type: 2}
+    SpawnConfig:
+      Randomly: 1
+      Cell: {x: 3, y: 3}
+  - UnitConfig: {fileID: 11400000, guid: dc37f463e97ec894cb3ec3579caa0bab, type: 2}
+    SpawnConfig:
+      Randomly: 1
+      Cell: {x: 3, y: 3}
+  - UnitConfig: {fileID: 11400000, guid: efdf89d35fe40624bbfa3d4ea09710fc, type: 2}
+    SpawnConfig:
+      Randomly: 1
+      Cell: {x: 3, y: 3}
