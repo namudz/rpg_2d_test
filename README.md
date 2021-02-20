@@ -23,6 +23,9 @@ Are located on Assets > Scriptable Objects.
 Enjoy!
 
 ## Class Diagrams
+<details>
+	<summary>Show diagrams</summary>
+	
 ![diagram_1](/Diagrams/Diagram_1-Game.png)
 
 --- 
@@ -40,6 +43,7 @@ Enjoy!
 ---
 
 ![diagram_5](/Diagrams/Diagram_5-AUnitController.png)
+</details>
 
 ## Releases
 [Latest version](/releases/latest)
