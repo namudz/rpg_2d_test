@@ -46,7 +46,7 @@ Enjoy!
 </details>
 
 ## Releases
-[Latest version](/releases/latest)
+[Latest version](https://github.com/namudz/rpg_2d_test/releases/latest)
 
 ## Unity Version
 2019.2.21f1
